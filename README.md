@@ -1,12 +1,50 @@
-- 👋 Hi, I’m @Ajeyverma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I’m Aarush ( **@ajeyverma** ) 👋  
+**Aspiring Developer | IoT & Robotics Enthusiast | AI Explorer | Open-Source Contributor**
 
-<!---
-Ajeyverma/Ajeyverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an aspiring software and hardware developer based in Lucknow, Uttar Pradesh.  
+I enjoy building projects that connect the physical world with software—especially IoT systems, automation tools, and web interfaces.
+
+---
+
+### 🛠️ Tech Skills
+
+**Languages:** C++, Python, JavaScript  
+**Technologies:** Arduino, ESP32, Raspberry Pi, HTML/CSS, Git, REST APIs, Bluetooth  
+
+---
+
+### 🚀 Projects I'm Proud Of
+
+| Project | Description |
+|---------|-------------|
+| **SmartController** | An IoT project built with Arduino and MIT App Inventor to control LEDs, fans, and alarms via sensors and Bluetooth. |
+| **CmdXManage** | A cross-platform command alias manager with support for Windows (CMD/PowerShell), Linux/macOS (bash/zsh), and Termux. |
+| **Personal Website** | My own GitHub Pages site showcasing my portfolio and blog: `ajeyverma.github.io`. |
+
+---
+
+### 🌱 Currently Learning
+
+- Deepening my skills in **embedded systems** and **microcontrollers** (Arduino, ESP32, Raspberry Pi)  
+- Exploring full-stack web development with React and Node.js  
+- Getting into **Artificial Intelligence (AI)** and its real-world applications  
+- Building a foundation in **Robotics** and automation systems  
+
+---
+
+### 🤝 Let’s Collaborate
+
+I’m open to collaborating on IoT, AI, Robotics, CLI tools, or open-source projects.  
+Always happy to learn from others or team up—feel free to reach out!
+
+---
+
+### 📫 Connect with Me  
+
+- **LinkedIn:** [linkedin.com/in/ajeyverma](https://linkedin.com/in/ajeyverma)  
+- **Instagram:** [@ajayverma097](https://instagram.com/ajayverma097)  
+- **Facebook:** [facebook.com/ajayverma097](https://facebook.com/ajayverma097)  
+
+---
+
+⚡ **Fun Fact:** Testing after every step? Not my style—I believe in building with confidence and checking at the finish line.
