@@ -43,7 +43,7 @@ Always happy to learn from others or team up—feel free to reach out!
 
 - **LinkedIn:** [linkedin.com/in/ajeyverma](https://linkedin.com/in/ajeyverma)  
 - **Instagram:** [@ajayverma097](https://instagram.com/ajayverma097)  
-- **Facebook:** [facebook.com/ajayverma097](https://facebook.com/ajayverma097)  
+- **Facebook:** [facebook.com/mrcurioux](https://facebook.com/mrcurioux)  
 
 ---
 
