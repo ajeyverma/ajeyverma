@@ -17,8 +17,9 @@ I enjoy building projects that connect the physical world with software—especi
 
 | Project | Description |
 |---------|-------------|
-| **SmartController** | An IoT project built with Arduino and MIT App Inventor to control LEDs, fans, and alarms via sensors and Bluetooth. |
+| **HardenSys** | Cross-platform Hardening tool to automate system hardening and generate compliance reports with severity levels on Windows and Linux. |
 | **CmdXManage** | A cross-platform command alias manager with support for Windows (CMD/PowerShell), Linux/macOS (bash/zsh), and Termux. |
+| **SmartController** | An IoT project built with Arduino and MIT App Inventor to control LEDs, fans, and alarms via sensors and Bluetooth. |
 | **Personal Website** | My own GitHub Pages site showcasing my portfolio and blog: `ajeyverma.github.io`. |
 
 ---
