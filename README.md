@@ -1,4 +1,4 @@
-# Hi there, I’m Aarush ( **@ajeyverma** ) 👋  
+# Hi there, I’m Ajay ( **@ajeyverma** ) 👋  
 **Aspiring Developer | IoT & Robotics Enthusiast | AI Explorer | Open-Source Contributor**
 
 I’m an aspiring software and hardware developer based in Lucknow, Uttar Pradesh.  
