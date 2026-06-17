@@ -49,4 +49,4 @@ Always happy to learn from others or team up—feel free to reach out!
 
 ---
 
-⚡ **Fun Fact:** Testing after every step? Not my style—I believe in building with confidence and checking at the finish line.
+⚡ **Fun Fact:** Testing after every step? Not my style - I believe in building with confidence and checking at the finish line.
