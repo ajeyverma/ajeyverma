@@ -2,7 +2,7 @@
 **Aspiring Developer | IoT & Robotics Enthusiast | AI Explorer | Open-Source Contributor**
 
 I’m an aspiring software and hardware developer based in Lucknow, Uttar Pradesh.  
-I enjoy building projects that connect the physical world with software—especially IoT systems, automation tools, and web interfaces.
+I enjoy building projects that connect the physical world with software - especially IoT systems, automation tools, and web interfaces.
 
 ---
 
@@ -36,7 +36,7 @@ I enjoy building projects that connect the physical world with software—especi
 ### 🤝 Let’s Collaborate
 
 I’m open to collaborating on IoT, AI, Robotics, CLI tools, or open-source projects.  
-Always happy to learn from others or team up—feel free to reach out!
+Always happy to learn from others or team up, feel free to reach out!
 
 ---
 
